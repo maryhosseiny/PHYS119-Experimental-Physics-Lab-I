@@ -64,3 +64,28 @@ At the end of Phys 119, I was able to:
 - Devise experiments to search for and correct hidden systematic errors when confronted by a disagreement with an expected model
 - Develop a new experiment that further tests a successful model after having drawn a conclusion from an experiment
 - Write a concise summary of an experiment
+
+## Labs
+The following is a brief description of which course concepts were covered in each lab/prelab.
+#### Prelabs
+- Prelab 01: Jupyter Notebook Basics
+- Prelab 02: Data entry in Jupyter notebooks/Uncertainty propagation
+- Prelab 03: Statistics of repeated measurements (mean, standard deviation, etc) and preliminary pendulum data.
+- Prelab 05: Ohm’s Law, Plots, and Models
+- Prelab 06: Using residuals to fit a linear model
+- Prelab 07: Introduction to Resistor-Capacitor circuits and a review of chi-squared
+- Prelab 08: Analytical solution to a straight line fit with zero intercept
+- Prelab 09: Exponentials and Uncertainty in Count Rates
+- Prelab 10: Fitting a Non-linear model to a data set.
+#### Labs
+- Lab 00: Introduction to the PHYS 119 Lab
+- Lab 01: Hooke’s Law
+- Lab 02: Hooke’s Law II
+- Lab 03: The Pendulum l
+- Lab 04:  The Pendulum ll
+- Lab 05: Ohm’s Law I
+- Lab 06: Ohm’s Law II
+- Lab 07:  RC Circuits I
+- Lab 08: RC Circuits II
+- Lab 09: Radiation Shielding I
+- Lab 10: Radiation Shielding II
